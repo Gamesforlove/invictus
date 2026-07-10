@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Kicklings-1.0";
 const contentToCache = [
-    "Build/Kicklings 7-6 Tournament Build (Web).loader.js",
-    "Build/Kicklings 7-6 Tournament Build (Web).framework.js.br",
-    "Build/Kicklings 7-6 Tournament Build (Web).data.br",
-    "Build/Kicklings 7-6 Tournament Build (Web).wasm.br",
+    "Build/Kicklings 7-7 - Compression Option A.loader.js",
+    "Build/Kicklings 7-7 - Compression Option A.framework.js.unityweb",
+    "Build/Kicklings 7-7 - Compression Option A.data.unityweb",
+    "Build/Kicklings 7-7 - Compression Option A.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
